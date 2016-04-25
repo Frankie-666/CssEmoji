@@ -3,6 +3,6 @@ Css Only Reactions Emoji
 
 Sadece Css ile çizilmiş emojilerle sitenize reaksiyonlar ekleyebilrisiniz.
 
-Demo : [Demo]
+Demo : [Click Here]
 
-[Demo]: <http://codepen.io/codery/full/Myqbmz>
+[Click Here]: <http://codepen.io/codery/full/Myqbmz>
